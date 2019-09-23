@@ -10,7 +10,14 @@ Trivia app created with React Native, Redux, Styled-Components, and Axios (via c
 ### Screenshots
 
 #### Home Screen
-![trivia_home](https://user-images.githubusercontent.com/6508054/65447625-81d73900-de26-11e9-8701-f240f090d243.PNG)
+<img src="https://user-images.githubusercontent.com/6508054/65447625-81d73900-de26-11e9-8701-f240f090d243.PNG" width="375" height="auto" />
+
+#### Results Screen
+<img src="https://user-images.githubusercontent.com/6508054/65448253-ec3ca900-de27-11e9-9585-4dac71ee2843.PNG" width="375" height="auto" />
+
+#### Quiz Screen
+<img src="https://user-images.githubusercontent.com/6508054/65448168-b5ff2980-de27-11e9-8838-f4e5eb671011.PNG" width="375" height="auto" />
+
 
 The information that you need to run this app can be found below: 
 

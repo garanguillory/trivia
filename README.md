@@ -7,6 +7,11 @@ Trivia app created with React Native, Redux, Styled-Components, and Axios (via c
 - correct/incorrect stats after quiz completion 
 - offline question set (in case of WiFi outage :scream:)
 
+### Screenshots
+
+#### Home Screen
+![trivia_home](https://user-images.githubusercontent.com/6508054/65447625-81d73900-de26-11e9-8701-f240f090d243.PNG)
+
 The information that you need to run this app can be found below: 
 
 # Create React Native App
